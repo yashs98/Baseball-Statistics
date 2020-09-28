@@ -5,3 +5,7 @@ I worked with another teammate on figuring out which player's statistic/statisti
 I used the baseball statistics from the following github repository:
 
 https://github.com/chadwickbureau/baseballdatabank
+
+This repository's work is licensed under a Creative Commons Attribution-ShareAlike
+3.0 Unported License.  For details see:
+http://creativecommons.org/licenses/by-sa/3.0/
